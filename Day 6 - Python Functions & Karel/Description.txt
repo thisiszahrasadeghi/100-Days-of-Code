@@ -1,4 +1,2 @@
 In the sixth day we coded on : 
-```
 https://reeborg.ca/reeborg.htmllang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json
-```
